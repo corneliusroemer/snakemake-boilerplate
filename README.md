@@ -1,2 +1,9 @@
 # snakemake-boilerplate
-Boilerplate for Snakemake workflow
+
+Run the workflow via:
+
+```bash
+snakemake
+```
+
+Default profiles require snakemake version >7.29

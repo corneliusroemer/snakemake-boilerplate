@@ -1,0 +1,5 @@
+cores: all
+reason: true
+printshellcmds: true
+rerun-incomplete: true
+configfile: profiles/default/config_dict.yaml

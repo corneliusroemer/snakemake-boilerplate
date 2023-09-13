@@ -1,0 +1,2 @@
+# This file gets turned into the global Python dictionary `config`
+name: World
